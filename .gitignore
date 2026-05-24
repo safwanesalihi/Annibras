@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Original upload sources (already extracted into public/)
+/Logo/
+/arfonts-lyon-arabic-display_all/
+/squerPROF copy.png
