@@ -129,7 +129,7 @@ export function MainNav() {
             >
               <Logo className="h-9 md:h-12 w-auto" />
               <span className="text-[10px] uppercase tracking-[0.3em] text-muted-foreground mt-1.5 hidden sm:inline">
-                AN-NIBRAS · منصة الأخبار والمقالات
+                Anebbras · منصة الأخبار والمقالات
               </span>
             </Link>
           </div>
